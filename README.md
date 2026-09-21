@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:12305c,100:1565C0&height=260&section=header&text=Nimesh%20Tharaka&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20•%20Data%20Scientist%20•%20AI%2FML%20Engineer&descSize=20&descAlignY=56&descColor=cfe3ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,25:12305c,50:1565C0,75:12305c,100:0a0e1a&height=280&section=header&text=Nimesh%20Tharaka&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Data%20Analyst%20•%20Data%20Scientist%20•%20AI%2FML%20Engineer&descSize=20&descAlignY=56&descColor=cfe3ff" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1000&color=64B5F6&center=true&vCenter=true&width=750&lines=Turning+data+into+decisions;Building+intelligent%2C+practical+AI+tools;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=64B5F6&center=true&vCenter=true&width=800&height=60&lines=Turning+data+into+decisions+%F0%9F%93%8A;Building+intelligent+AI+solutions+%F0%9F%A4%96;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Welcome+to+my+profile+%E2%80%94+glad+you%27re+here+%F0%9F%91%8B" alt="Typing SVG" />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90">
 
 <br>
 
@@ -13,9 +17,9 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Nimesh-Tharaka&label=Profile%20Views&color=1565C0&style=flat-square" />
-  <img src="https://img.shields.io/badge/📍_Kandy,_Sri_Lanka-0288D1?style=flat-square" />
-  <img src="https://img.shields.io/badge/💼_Open_to_Opportunities-2E7D32?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Nimesh-Tharaka&label=Profile%20Views&color=1565C0&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Nimesh-Tharaka?label=Followers&style=for-the-badge&color=2E7D32" />
+  <img src="https://img.shields.io/badge/📍_Kandy,_Sri_Lanka-0288D1?style=for-the-badge" />
 </p>
 
 <p>
@@ -26,19 +30,36 @@
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 👋 About Me
+<!-- ABOUT ME -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="28">
+  About Me
+</h2>
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
 I'm a **Data Science graduate from SLIIT** with hands-on experience across **Data Analytics, Business Intelligence, Machine Learning, and Generative AI**. I enjoy turning messy, real-world data into dashboards, models, and applications that people actually use.
 
 At **MAS Holdings**, I built live Power BI dashboards, Excel reports, and an Audit App/Dashboard used across local and overseas plants — plus automation workflows in Power Automate and Power Apps. At **SparQ Corporate**, I worked on AI-powered web apps built around the Google Gemini API, prompt engineering, and full-stack integration with React and Spring Boot.
 
-**Currently exploring:** Generative AI & LLM applications · Agentic AI systems · Cloud MLOps
+🎯 **Currently exploring:** Generative AI & LLM applications · Agentic AI systems · Cloud MLOps
 
-<br>
+</td>
+<td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320">
+</td>
+</tr>
+</table>
 
-## 💼 Experience
+<!-- EXPERIENCE -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="28">
+  Experience
+</h2>
 
 <table width="100%">
 <tr>
@@ -73,9 +94,11 @@ At **MAS Holdings**, I built live Power BI dashboards, Excel reports, and an Aud
 </tr>
 </table>
 
-<br>
-
-## 🛠️ Tech Stack
+<!-- TECH STACK -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="28">
+  Tech Stack
+</h2>
 
 <div align="center">
 
@@ -129,9 +152,11 @@ At **MAS Holdings**, I built live Power BI dashboards, Excel reports, and an Aud
 
 </div>
 
-<br>
-
-## 🚀 Featured Projects
+<!-- PROJECTS -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="28">
+  Featured Projects
+</h2>
 
 <table width="100%">
 <tr>
@@ -216,22 +241,30 @@ Generative AI app producing marketing copy from product info.
 </tr>
 </table>
 
-<br>
+<!-- EDUCATION -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="28">
+  Education
+</h2>
 
-## 🎓 Education
+<div align="center">
 
 **BSc (Hons) in Information Technology** — Specialization in Data Science
 Sri Lanka Institute of Information Technology (SLIIT) · *Graduated 2026*
 
-**Relevant courses & training:** Microsoft PL-300 (Power BI Data Analyst) · Introduction to Generative AI (Google) · Prompt Engineering with ChatGPT (Simplilearn) · Python for Beginners (University of Moratuwa) · AWS Educate ML Foundations · Introduction to Tableau (Simplilearn) · Introduction to NLP (Great Learning) · AI/ML Engineer Course – Stage 1 (SLIIT)
+Microsoft PL-300 (Power BI Data Analyst) · Introduction to Generative AI (Google) · Prompt Engineering with ChatGPT (Simplilearn) · Python for Beginners (University of Moratuwa) · AWS Educate ML Foundations · Introduction to Tableau (Simplilearn) · Introduction to NLP (Great Learning) · AI/ML Engineer Course – Stage 1 (SLIIT)
 
-<br>
+</div>
 
-## 📈 GitHub Stats
+<!-- GITHUB STATS -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="28">
+  GitHub Analytics
+</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nimesh-Tharaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nimesh-Tharaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-Tharaka&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 <br>
@@ -240,13 +273,25 @@ Sri Lanka Institute of Information Technology (SLIIT) · *Graduated 2026*
 
 <br><br>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nimesh-Tharaka&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nimesh-Tharaka&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="95%" />
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🤝 Let's Connect
+<!-- CONNECT -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="28">
+  Let's Connect
+</h2>
 
 <div align="center">
 
@@ -254,14 +299,12 @@ Sri Lanka Institute of Information Technology (SLIIT) · *Graduated 2026*
 <a href="https://www.linkedin.com/in/nimesh-bandaranayake-0a2912304/"><img src="https://img.shields.io/badge/LinkedIn-Nimesh%20Bandaranayake-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Nimesh-Tharaka"><img src="https://img.shields.io/badge/GitHub-Nimesh--Tharaka-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 *"Turning data into insights, and ideas into intelligent solutions."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,40:12305c,100:0a0e1a&height=120&section=footer&animation=fadeIn" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,50:12305c,100:0a0e1a&height=150&section=footer&animation=twinkling" width="100%" />
 
 </div>
