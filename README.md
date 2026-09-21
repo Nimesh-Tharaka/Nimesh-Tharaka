@@ -1,319 +1,1059 @@
 <div align="center">
 
-<!-- Premium Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d2137,100:0a1628&height=220&section=header&text=Nimesh%20Tharaka&fontSize=72&fontColor=e8f4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58&descColor=64b5f6" width="100%"/>
+  <!-- HEADER -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d2137,100:0a1628&height=220&section=header&text=Nimesh%20Tharaka&fontSize=72&fontColor=e8f4ff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20AI%2FML%20%7C%20Business%20Intelligence&descSize=18&descAlignY=58&descColor=64b5f6"
+    width="100%"
+  />
 
-<!-- Refined Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=64B5F6&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Transforming+Data+into+Intelligence+%F0%9F%A7%A0;Building+Production-Ready+AI+Systems+%F0%9F%9A%80;Data+Science+%40+SLIIT+%F0%9F%8E%93;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing Animation" />
+  <br>
 
-<br/>
+  <!-- TYPING ANIMATION -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=64B5F6&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Transforming+Data+into+Insights+%F0%9F%93%8A;Building+Intelligent+AI+Solutions+%F0%9F%A4%96;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Turning+Business+Problems+into+Data-Driven+Solutions+%F0%9F%9A%80"
+    alt="Typing Animation"
+  />
 
-<!-- Professional Badge Row -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-SLIIT%20%20-1565C0?style=for-the-badge&logo=databricks&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Specialist-0277BD?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-01579B?style=for-the-badge&logo=react&logoColor=white" />
-</p>
+  <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nimesh-Tharaka&label=Profile%20Views&color=1565C0&style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍-Kandy%2C%20Sri%20Lanka-0288D1?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/💼-Open%20to%20Opportunities-2E7D32?style=flat-square" />
-</p>
+  <!-- BADGES -->
+  <p align="center">
 
-<br/>
+    <img
+      src="https://img.shields.io/badge/Data%20Science-SLIIT-1565C0?style=for-the-badge&logo=databricks&logoColor=white"
+    />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+    &nbsp;
+
+    <img
+      src="https://img.shields.io/badge/Data%20Analytics-Professional-0277BD?style=for-the-badge&logo=powerbi&logoColor=white"
+    />
+
+    &nbsp;
+
+    <img
+      src="https://img.shields.io/badge/AI%20%2F%20ML-Engineer-01579B?style=for-the-badge&logo=tensorflow&logoColor=white"
+    />
+
+  </p>
+
+  <p align="center">
+
+    <img
+      src="https://komarev.com/ghpvc/?username=Nimesh-Tharaka&label=Profile%20Views&color=1565C0&style=flat-square"
+    />
+
+    &nbsp;
+
+    <img
+      src="https://img.shields.io/badge/📍-Kandy%2C%20Sri%20Lanka-0288D1?style=flat-square"
+    />
+
+    &nbsp;
+
+    <img
+      src="https://img.shields.io/badge/💼-Open%20to%20Opportunities-2E7D32?style=flat-square"
+    />
+
+  </p>
 
 </div>
 
----
 
-## 👨‍💻 About Me
+<hr>
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 12px; margin-left: 20px;"/>
 
-```typescript
-const nimesh = {
-  name     : "Nimesh Tharaka Bandaranayake",
-  location : "📍 Kandy, Sri Lanka",
-  degree   : "BSc Data Science — SLIIT (Final Year)",
+<!-- ABOUT ME -->
 
-  expertise: {
-    core   : ["Machine Learning", "Deep Learning", "NLP"],
-    data   : ["Predictive Analytics", "Data Mining", "BI"],
-    web    : ["Full-Stack MERN", "RESTful APIs", "AR/XR"],
-    genAI  : ["LLM Applications", "Computer Vision"],
-  },
+<h2>👨‍💻 About Me</h2>
 
-  stack: {
-    languages  : ["Python", "JavaScript", "SQL", "Kotlin"],
-    frameworks : ["React", "Node.js", "Flask", "Spring Boot"],
-    ai_ml      : ["TensorFlow", "PyTorch", "Scikit-learn"],
-    cloud      : ["AWS", "GCP", "Azure"],
-    tools      : ["Docker", "Git", "Power BI"],
-  },
+<table>
+<tr>
 
-  currentFocus : ["Generative AI 🤖", "Cloud MLOps ☁️", "Advanced NLP 📝"],
-  lookingFor   : "Internship / Entry-level AI & Data Science roles 🎯",
-  motto        : "Build AI that creates real-world impact 🌍",
-};
-```
+<td width="60%" valign="top">
 
-<br clear="right"/>
+<h3>Hello! I'm Nimesh Tharaka 👋</h3>
 
----
+<p>
+I am a <strong>Data Science graduate from SLIIT</strong> with practical experience
+in <strong>Data Analytics, Business Intelligence, Artificial Intelligence,
+Machine Learning, dashboard development, and workflow automation.</strong>
+</p>
 
-## 🛠️ Tech Stack
+<p>
+I enjoy transforming raw and complex data into meaningful insights,
+interactive dashboards, intelligent applications, and practical business solutions.
+</p>
+
+<p>
+My professional experience includes working with
+<strong>MAS Holdings</strong> as a Data Analyst – Automation Intern,
+where I worked with real-world operational and audit data across
+<strong>local and overseas plants</strong>.
+</p>
+
+<p>
+I have developed <strong>live Power BI dashboards, Excel reports,
+Audit Apps, Audit Dashboards, plant-wise reports</strong> and automated
+business workflows.
+</p>
+
+<p>
+I also have AI/ML experience from my internship at
+<strong>SparQ Corporate</strong>, where I worked on AI-powered applications,
+Google Gemini API integration, prompt engineering, REST APIs,
+and business-oriented digital solutions.
+</p>
+
+<br>
+
+<strong>🎯 Current Interests</strong>
+
+<ul>
+  <li>Data Analytics & Business Intelligence</li>
+  <li>Power BI & Dashboard Development</li>
+  <li>Python & SQL Data Analysis</li>
+  <li>Machine Learning & Predictive Analytics</li>
+  <li>Generative AI & LLM Applications</li>
+  <li>Data Engineering & ETL</li>
+  <li>Business Process Automation</li>
+</ul>
+
+</td>
+
+<td width="40%" align="center">
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+  width="380"
+  alt="Coding Animation"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Analyze-1565C0?style=for-the-badge"
+>
+
+<img
+  src="https://img.shields.io/badge/Visualize-0288D1?style=for-the-badge"
+>
+
+<img
+  src="https://img.shields.io/badge/Solve-0277BD?style=for-the-badge"
+>
+
+<img
+  src="https://img.shields.io/badge/Grow-2E7D32?style=for-the-badge"
+>
+
+</td>
+
+</tr>
+</table>
+
+
+<hr>
+
+
+<!-- EXPERIENCE -->
+
+<h2>💼 Professional Experience</h2>
+
+
+<h3>📊 Data Analyst – Automation Intern</h3>
+
+<h4>MAS Holdings | Mar 2026 – Sep 2026</h4>
+
+<ul>
+
+<li>
+Developed and maintained <strong>live Power BI dashboards</strong>
+for monitoring operational performance, audit activities and KPIs.
+</li>
+
+<li>
+Developed <strong>Excel-based reports and dashboards</strong>
+for operational and audit-related reporting.
+</li>
+
+<li>
+Worked with <strong>plant-wise data across local and overseas operations</strong>
+to provide visibility into performance and audit activities.
+</li>
+
+<li>
+Developed and enhanced the <strong>Audit App and Audit Dashboard</strong>
+to streamline data collection, monitoring, validation and reporting.
+</li>
+
+<li>
+Conducted <strong>plant-wise visits</strong> to understand operational processes,
+verify information and identify data-related issues.
+</li>
+
+<li>
+Performed <strong>data validation and quality checks</strong>
+to identify missing, inconsistent and incorrect information.
+</li>
+
+<li>
+Used <strong>Power BI, Power Query, DAX and Excel</strong>
+for data transformation, analysis, visualization and reporting.
+</li>
+
+<li>
+Created interactive dashboards containing
+<strong>KPIs, filters, slicers, plant-level analysis and performance metrics.</strong>
+</li>
+
+<li>
+Analyzed operational data to identify
+<strong>trends, gaps, inconsistencies and areas requiring attention.</strong>
+</li>
+
+<li>
+Automated repetitive processes using
+<strong>Power Automate, Power Apps, Dataverse and SharePoint.</strong>
+</li>
+
+<li>
+Collaborated with business stakeholders and plant teams
+to understand requirements and improve data quality.
+</li>
+
+</ul>
+
+
+<br>
+
+
+<h3>🤖 AI/ML Intern</h3>
+
+<h4>SparQ Corporate | Sep 2025 – Mar 2026</h4>
+
+<ul>
+
+<li>
+Worked on <strong>AI-powered web applications</strong>
+and business-oriented digital solutions.
+</li>
+
+<li>
+Worked with <strong>Google Gemini API</strong>,
+prompt engineering and AI application development.
+</li>
+
+<li>
+Supported frontend and backend integration using
+<strong>React, Spring Boot and REST APIs.</strong>
+</li>
+
+<li>
+Assisted with AI testing, prompt optimization,
+data preparation and solution validation.
+</li>
+
+<li>
+Worked with team members to understand business requirements
+and develop practical AI solutions.
+</li>
+
+<li>
+Supported API integration and documentation
+for internal digital products.
+</li>
+
+</ul>
+
+
+<hr>
+
+
+<!-- TECH STACK -->
+
+<h2>🛠️ Technical Skills</h2>
 
 <div align="center">
 
-**Languages**
+<h3>Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,php,html,css&theme=dark&perline=7" />
+<img
+  src="https://skillicons.dev/icons?i=python,javascript,typescript,kotlin,php,html,css&theme=dark&perline=7"
+/>
 
-**Frameworks & Libraries**
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,spring,tailwind,express&theme=dark&perline=7" />
+<h3>Data Analytics & BI</h3>
 
-**Cloud, Tools & Databases**
+<img
+  src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+/>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,mongodb,postgresql&theme=dark&perline=7" />
+<img
+  src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
+/>
 
-**AI / ML Stack**
+<img
+  src="https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=4" />
+<img
+  src="https://img.shields.io/badge/Tableau-Analytics-E97627?style=for-the-badge&logo=tableau&logoColor=white"
+/>
+
+<img
+  src="https://img.shields.io/badge/DAX-Power%20BI-F2C811?style=for-the-badge"
+/>
+
+<img
+  src="https://img.shields.io/badge/Power%20Query-ETL-742774?style=for-the-badge"
+/>
+
+<br><br>
+
+<h3>AI / Machine Learning</h3>
+
+<img
+  src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=4"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
+/>
+
+<img
+  src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"
+/>
+
+<img
+  src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"
+/>
+
+<img
+  src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-6A1B9A?style=for-the-badge"
+/>
+
+<img
+  src="https://img.shields.io/badge/Computer%20Vision-AI-7B1FA2?style=for-the-badge"
+/>
+
+<br><br>
+
+<h3>Generative AI</h3>
+
+<img
+  src="https://img.shields.io/badge/LLMs-Generative%20AI-4285F4?style=for-the-badge"
+/>
+
+<img
+  src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A1B9A?style=for-the-badge"
+/>
+
+<img
+  src="https://img.shields.io/badge/Prompt%20Engineering-AI-0277BD?style=for-the-badge"
+/>
+
+<img
+  src="https://img.shields.io/badge/Agentic%20AI-Multi--Agent%20Systems-01579B?style=for-the-badge"
+/>
+
+<br><br>
+
+<h3>Frameworks & Backend</h3>
+
+<img
+  src="https://skillicons.dev/icons?i=react,nodejs,flask,spring,express,fastapi,tailwind&theme=dark&perline=7"
+/>
+
+<br><br>
+
+<h3>Databases & Tools</h3>
+
+<img
+  src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,git,github,aws,azure,gcp&theme=dark&perline=9"
+/>
+
+</div>
+
+
+<hr>
+
+
+<!-- CORE SKILLS -->
+
+<h2>📊 Data Analytics Expertise</h2>
 
 <table align="center">
+
 <tr>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/><br/><sub>Pandas</sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/><br/><sub>NumPy</sub></td>
-<td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/><br/><sub>Scikit-learn</sub></td>
-<td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br/><sub>Power BI</sub></td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/><br/><sub>Jupyter</sub></td>
+
+<td align="center" width="200">
+<h3>📥</h3>
+<strong>Data Preparation</strong>
+<br>
+Data Cleaning<br>
+Data Validation<br>
+Data Transformation<br>
+ETL
+</td>
+
+<td align="center" width="200">
+<h3>🔎</h3>
+<strong>Data Analysis</strong>
+<br>
+EDA<br>
+Statistical Analysis<br>
+Trend Analysis<br>
+KPI Analysis
+</td>
+
+<td align="center" width="200">
+<h3>📊</h3>
+<strong>Visualization</strong>
+<br>
+Power BI<br>
+Excel<br>
+Tableau<br>
+DAX
+</td>
+
+<td align="center" width="200">
+<h3>🤖</h3>
+<strong>Machine Learning</strong>
+<br>
+Predictive Analytics<br>
+Classification<br>
+Regression<br>
+Model Evaluation
+</td>
+
 </tr>
+
 </table>
 
-</div>
 
----
+<hr>
 
-## 🚀 Featured Projects
 
-<div align="center">
+<!-- PROJECTS -->
+
+<h2>🚀 Featured Projects</h2>
+
 <table>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 🛍️ E-Commerce Platform
-![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square&logo=react)
-![Status](https://img.shields.io/badge/Status-Production-2E7D32?style=flat-square)
+<h3>📊 Business Intelligence Dashboard</h3>
 
-Full-featured e-commerce solution with real-time cart management, payment gateway integration, and an admin analytics dashboard.
+<p>
+Interactive Business Intelligence solution for monitoring
+business performance and operational KPIs.
+</p>
 
-**Stack:** React + Redux · Node.js · Express · MongoDB  
-**Key Features:** JWT Auth · Payment Integration · Admin Dashboard
+<strong>Technologies:</strong>
+
+<p>
+Power BI · SQL · Power Query · DAX · Excel
+</p>
+
+<ul>
+<li>Interactive dashboards</li>
+<li>KPI monitoring</li>
+<li>Data transformation</li>
+<li>Business reporting</li>
+<li>Data visualization</li>
+</ul>
 
 </td>
+
+
 <td width="50%" valign="top">
 
-### 📊 Business Intelligence Dashboard
-![PowerBI](https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=flat-square&logo=powerbi)
-![Status](https://img.shields.io/badge/Real--Time-Enabled-1565C0?style=flat-square)
+<h3>📈 Predictive Analytics Suite</h3>
 
-End-to-end BI solution with ETL pipelines, OLAP cubes, and interactive Power BI dashboards for executive reporting.
+<p>
+Complete machine learning pipeline involving data preprocessing,
+feature engineering, model training and prediction.
+</p>
 
-**Stack:** SSIS · SSAS · Power BI · SQL Server  
-**Key Features:** ETL Pipelines · OLAP Cubes · Live Reports
+<strong>Technologies:</strong>
+
+<p>
+Python · Pandas · Scikit-learn · Flask · React
+</p>
+
+<ul>
+<li>Data preprocessing</li>
+<li>Feature engineering</li>
+<li>Machine learning</li>
+<li>Model evaluation</li>
+<li>REST API</li>
+</ul>
 
 </td>
+
 </tr>
 
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🏥 AR Medical Recognition System
-![WebXR](https://img.shields.io/badge/WebXR-Innovation-E53935?style=flat-square)
-![Status](https://img.shields.io/badge/Cutting--Edge-Research-7B1FA2?style=flat-square)
+<h3>🚗 AI Car Price Predictor</h3>
 
-Augmented reality system for real-time patient identification with 3D overlays and voice feedback using computer vision.
+<p>
+Machine learning regression application for predicting
+vehicle prices from input features.
+</p>
 
-**Stack:** Three.js · MindAR · WebXR · Flask · MongoDB  
-**Key Features:** Face Recognition · Voice Synthesis · 3D Overlays
+<strong>Technologies:</strong>
+
+<p>
+Python · Scikit-learn · Flask · React
+</p>
+
+<ul>
+<li>Regression model</li>
+<li>Feature preprocessing</li>
+<li>Prediction API</li>
+<li>Interactive UI</li>
+</ul>
 
 </td>
+
+
 <td width="50%" valign="top">
 
-### 🚗 AI Car Price Predictor
-![ML](https://img.shields.io/badge/Random_Forest-94.2%25_Acc-2E7D32?style=flat-square&logo=scikitlearn)
-![Status](https://img.shields.io/badge/Live-Demo-1565C0?style=flat-square)
+<h3>👁️ Real-Time Object Detection</h3>
 
-Machine learning regression model predicting vehicle prices with 94.2% accuracy, deployed as a live web application.
+<p>
+Computer vision application capable of detecting multiple
+objects in real time.
+</p>
 
-**Stack:** Python · Scikit-learn · Flask · React  
-**Key Features:** 94.2% Accuracy · REST API · Interactive UI
+<strong>Technologies:</strong>
+
+<p>
+Python · YOLOv8 · OpenCV · WebRTC
+</p>
+
+<ul>
+<li>Real-time detection</li>
+<li>Object tracking</li>
+<li>Confidence scoring</li>
+<li>Live webcam processing</li>
+</ul>
 
 </td>
+
 </tr>
 
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 👁️ Real-Time Object Detection
-![YOLO](https://img.shields.io/badge/YOLOv8-30%2B_FPS-00ACC1?style=flat-square)
-![Status](https://img.shields.io/badge/Real--Time-Enabled-2E7D32?style=flat-square)
+<h3>🤖 RAG Document Q&A Assistant</h3>
 
-High-performance object detection system running at 30+ FPS with multi-object tracking, bounding boxes, and confidence scoring.
+<p>
+AI-powered document question-answering system using
+Retrieval-Augmented Generation.
+</p>
 
-**Stack:** YOLOv8 · OpenCV · Python · WebRTC  
-**Key Features:** Live Webcam · Multi-Track · 30+ FPS
+<strong>Technologies:</strong>
+
+<p>
+Python · LLMs · RAG · APIs
+</p>
+
+<ul>
+<li>Document processing</li>
+<li>Semantic retrieval</li>
+<li>Context-aware responses</li>
+<li>LLM integration</li>
+</ul>
 
 </td>
+
+
 <td width="50%" valign="top">
 
-### 🤖 AI Post Description Generator
-![Gemini](https://img.shields.io/badge/Gemini_2.0-Powered-4285F4?style=flat-square&logo=google)
-![Status](https://img.shields.io/badge/Full--Stack-Complete-2E7D32?style=flat-square)
+<h3>📊 AI-Powered Stock Dashboard</h3>
 
-Intelligent marketing copy generator producing 40–50 word descriptions from product type and subcategory inputs.
+<p>
+Interactive analytics dashboard providing stock insights
+and AI-generated summaries.
+</p>
 
-**Stack:** Vite · React · Node.js · Gemini 2.0 API  
-**Key Features:** AI Copy · Secure API · Fast Generation
+<strong>Technologies:</strong>
+
+<p>
+Spring Boot · React · Gemini · H2 · Recharts
+</p>
+
+<ul>
+<li>Stock analytics</li>
+<li>Data visualization</li>
+<li>AI-generated insights</li>
+<li>Real-time dashboard</li>
+</ul>
 
 </td>
+
 </tr>
 
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 📈 Fruit Stocks AI Dashboard
-![Spring](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=flat-square&logo=springboot)
-![Status](https://img.shields.io/badge/AI--Insights-Enabled-4285F4?style=flat-square)
+<h3>🧠 Multi-Agent AI System</h3>
 
-Analytics dashboard with AI-generated summaries providing real-time stock insights and interactive visualizations.
+<p>
+Research and development project focused on multiple
+AI agents collaborating to solve complex tasks.
+</p>
 
-**Stack:** Spring Boot · React + Vite · H2 · Recharts · Gemini  
-**Key Features:** AI Summaries · Stock Analytics · Real-Time Data
+<strong>Technologies:</strong>
+
+<p>
+Python · LLMs · APIs · Agentic AI
+</p>
+
+<ul>
+<li>Multi-agent architecture</li>
+<li>LLM integration</li>
+<li>Task decomposition</li>
+<li>Agent collaboration</li>
+</ul>
 
 </td>
+
+
 <td width="50%" valign="top">
 
-### 📉 Predictive Analytics Suite
-![DS](https://img.shields.io/badge/Data_Science-Full_Pipeline-6A1B9A?style=flat-square&logo=jupyter)
-![Status](https://img.shields.io/badge/API-RESTful-1565C0?style=flat-square)
+<h3>📝 AI Post Description Generator</h3>
 
-Complete ML pipeline with data preprocessing, feature engineering, and multi-model deployment via a Flask + React interface.
+<p>
+Generative AI application that creates marketing descriptions
+based on product information.
+</p>
 
-**Stack:** Python · Scikit-learn · Flask · React  
-**Key Features:** Feature Engineering · Multi-Model · REST API
+<strong>Technologies:</strong>
+
+<p>
+React · Node.js · Gemini API
+</p>
+
+<ul>
+<li>Generative AI</li>
+<li>Prompt engineering</li>
+<li>API integration</li>
+<li>Full-stack application</li>
+</ul>
 
 </td>
+
 </tr>
 
 </table>
-</div>
 
----
 
-## 🏆 Certifications & Achievements
+<hr>
+
+
+<!-- EDUCATION -->
+
+<h2>🎓 Education</h2>
+
+<table>
+
+<tr>
+
+<td width="70%">
+
+<h3>BSc (Hons) in Information Technology</h3>
+
+<strong>Specialization: Data Science</strong>
+
+<br>
+
+Sri Lanka Institute of Information Technology (SLIIT)
+
+</td>
+
+<td align="center">
+
+<strong>2026</strong>
+
+<br>
+
+Graduated
+
+</td>
+
+</tr>
+
+</table>
+
+
+<h3>📚 Relevant Courses & Training</h3>
+
+<ul>
+
+<li>
+<strong>Microsoft PL-300T00-A:</strong>
+Microsoft Power BI Data Analyst
+</li>
+
+<li>
+<strong>Introduction to Generative AI</strong> – Google
+</li>
+
+<li>
+<strong>Prompt Engineering with ChatGPT</strong> – Simplilearn
+</li>
+
+<li>
+<strong>Python for Beginners</strong> – University of Moratuwa
+</li>
+
+<li>
+<strong>AWS Educate Machine Learning Foundations</strong>
+</li>
+
+<li>
+<strong>Introduction to Tableau</strong> – Simplilearn
+</li>
+
+<li>
+<strong>Introduction to Natural Language Processing</strong> – Great Learning
+</li>
+
+<li>
+<strong>AI/ML Engineer Course – Stage 1</strong> – SLIIT
+</li>
+
+</ul>
+
+
+<hr>
+
+
+<!-- CERTIFICATIONS -->
+
+<h2>🏆 Certifications & Achievements</h2>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="33%">
+
+<h3>🤖 AI & ML</h3>
+
+Google Generative AI<br>
+AWS ML Foundations<br>
+NLP<br>
+AI/ML Engineering
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>📊 Data & BI</h3>
+
+Microsoft Power BI<br>
+Tableau<br>
+Python<br>
+Data Analytics<br>
+SQL
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>💼 Experience</h3>
+
+10+ Technical Projects<br>
+MAS Holdings Internship<br>
+SparQ Corporate Internship<br>
+Business Intelligence<br>
+Automation
+
+</td>
+
+</tr>
+
+</table>
+
+
+<hr>
+
+
+<!-- WHAT I CAN DO -->
+
+<h2>💡 What I Can Do</h2>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📊 Data Analytics</h3>
+
+<ul>
+<li>Clean and validate datasets</li>
+<li>Perform exploratory data analysis</li>
+<li>Build KPI dashboards</li>
+<li>Create Power BI reports</li>
+<li>Analyze trends and patterns</li>
+<li>Prepare business reports</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🤖 AI & Machine Learning</h3>
+
+<ul>
+<li>Build ML models</li>
+<li>Develop predictive analytics solutions</li>
+<li>Develop NLP applications</li>
+<li>Build Computer Vision systems</li>
+<li>Integrate LLM APIs</li>
+<li>Develop RAG applications</li>
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>⚙️ Automation</h3>
+
+<ul>
+<li>Power Automate workflows</li>
+<li>Power Apps applications</li>
+<li>Business process automation</li>
+<li>API integration</li>
+<li>ETL workflows</li>
+<li>Data processing automation</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💻 Software Development</h3>
+
+<ul>
+<li>REST API development</li>
+<li>Backend development</li>
+<li>Frontend development</li>
+<li>Database integration</li>
+<li>Full-stack applications</li>
+<li>Docker-based development</li>
+</ul>
+
+</td>
+
+</tr>
+
+</table>
+
+
+<hr>
+
+
+<!-- CURRENT FOCUS -->
+
+<h2>🎯 Current Focus</h2>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
 
-**🧠 AI & Machine Learning**
+<img
+  src="https://img.shields.io/badge/Data%20Analytics-1565C0?style=for-the-badge"
+/>
 
-![Google](https://img.shields.io/badge/Google_Cloud-Generative_AI-4285F4?style=flat-square&logo=googlecloud)  
-![AWS](https://img.shields.io/badge/AWS-ML_Foundations-FF9900?style=flat-square&logo=amazonaws)  
-![Coursera](https://img.shields.io/badge/Coursera-Neural_Networks-0056D2?style=flat-square&logo=coursera)  
-![NLP](https://img.shields.io/badge/Great_Learning-NLP_Course-2E7D32?style=flat-square)
+<img
+  src="https://img.shields.io/badge/Business%20Intelligence-0277BD?style=for-the-badge"
+/>
 
-</td>
-<td align="center" width="33%">
+<img
+  src="https://img.shields.io/badge/Machine%20Learning-6A1B9A?style=for-the-badge"
+/>
 
-**📊 Data & Analytics**
+<img
+  src="https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge"
+/>
 
-![PBI](https://img.shields.io/badge/Microsoft-Power_BI_PL--300-F2C811?style=flat-square&logo=powerbi)  
-![SQL](https://img.shields.io/badge/HackerRank-SQL_Certified-00EA64?style=flat-square&logo=hackerrank)  
-![DM](https://img.shields.io/badge/SLIIT-Data_Mining-1565C0?style=flat-square)  
-![Python](https://img.shields.io/badge/Python-Advanced_Analytics-3776AB?style=flat-square&logo=python)
+<img
+  src="https://img.shields.io/badge/Cloud%20MLOps-00897B?style=for-the-badge"
+/>
 
-</td>
-<td align="center" width="33%">
-
-**🏅 Competitions & Awards**
-
-![Hackathon](https://img.shields.io/badge/Hackathon-Top_3_Finalist-FFD700?style=flat-square)  
-![Research](https://img.shields.io/badge/Research-AI%2FML_Projects-7B1FA2?style=flat-square)  
-![OSS](https://img.shields.io/badge/Open_Source-Active_Contributor-181717?style=flat-square&logo=github)
-
-</td>
-</tr>
-</table>
 </div>
 
 
----
+<br>
 
-## 🤝 Let's Connect
+<p align="center">
+
+<strong>
+Turning data into insights. Building intelligent solutions. Creating real-world impact.
+</strong>
+
+</p>
+
+
+<hr>
+
+
+<!-- GITHUB STATS -->
+
+<h2>📈 GitHub Statistics</h2>
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Nimesh-Tharaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimesh-Tharaka&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+/>
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Nimesh-Tharaka&theme=tokyonight&hide_border=true"
+  width="70%"
+/>
+
+</div>
+
+
+<hr>
+
+
+<!-- CONTRIBUTION GRAPH -->
+
+<h2>🐍 Contribution Activity</h2>
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+
+<hr>
+
+
+<!-- CONNECT -->
+
+<h2>🤝 Let's Connect</h2>
 
 <div align="center">
 
 <a href="mailto:bandaranayakanimesh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-bandaranayakanimesh%40gmail.com-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<img
+  src="https://img.shields.io/badge/Gmail-bandaranayakanimesh%40gmail.com-D32F2F?style=for-the-badge&logo=gmail&logoColor=white"
+/>
+
 </a>
+
 &nbsp;
+
 <a href="https://www.linkedin.com/in/nimesh-bandaranayake-0a2912304/">
-  <img src="https://img.shields.io/badge/LinkedIn-Nimesh%20Bandaranayake-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<img
+  src="https://img.shields.io/badge/LinkedIn-Nimesh%20Bandaranayake-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
+
 </a>
+
 &nbsp;
+
 <a href="https://github.com/Nimesh-Tharaka">
-  <img src="https://img.shields.io/badge/GitHub-Nimesh--Tharaka-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://twitter.com/NimeshTharaka">
-  <img src="https://img.shields.io/badge/Twitter-@NimeshTharaka-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 
-<br/><br/>
+<img
+  src="https://img.shields.io/badge/GitHub-Nimesh--Tharaka-181717?style=for-the-badge&logo=github&logoColor=white"
+/>
 
-<img src="https://img.shields.io/badge/💬-Open%20to%20Collaborate-1565C0?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/💼-Available%20for%20Internships-2E7D32?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/📧-Quick%20Response%20Guaranteed-0288D1?style=for-the-badge" />
+</a>
 
 </div>
 
----
+
+<br>
+
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "First, solve the problem. Then, write the code."             ║
-║                                             — John Johnson       ║
-║                                                                  ║
-║   💡 The best AI doesn't replace humans — it empowers them.     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img
+  src="https://img.shields.io/badge/💼-Open%20to%20Data%20%26%20AI%20Opportunities-2E7D32?style=for-the-badge"
+/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+&nbsp;
 
-<br/>
+<img
+  src="https://img.shields.io/badge/📊-Data%20Analytics-1565C0?style=for-the-badge"
+/>
 
-**Thank you for visiting — let's build something meaningful together. 🚀**
+&nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2137,100:0a0e1a&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img
+  src="https://img.shields.io/badge/🤖-AI%20%26%20Machine%20Learning-6A1B9A?style=for-the-badge"
+/>
 
-<img src="https://komarev.com/ghpvc/?username=Nimesh-Tharaka&style=flat-square&color=1565C0&label=Total+Profile+Views" />
+</div>
+
+
+<hr>
+
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<h3>
+"Turning data into insights and ideas into intelligent solutions."
+</h3>
+
+<br>
+
+<strong>
+Thank you for visiting my profile! 🚀
+</strong>
+
+<br><br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2137,100:0a0e1a&height=120&section=footer&animation=fadeIn"
+  width="100%"
+/>
 
 </div>
