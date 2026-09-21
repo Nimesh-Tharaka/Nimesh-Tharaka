@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Premium Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d2137,100:0a1628&height=220&section=header&text=Nimesh%20Tharaka&fontSize=72&fontColor=e8f4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58&descColor=64b5f6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d2137,100:0a1628&height=220&section=header&text=Nimesh%20Tharaka&fontSize=72&fontColor=e8f4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58&descColor=64b5f6" width="100%"/>
 
 <!-- Refined Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=64B5F6&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Transforming+Data+into+Intelligence+%F0%9F%A7%A0;Building+Production-Ready+AI+Systems+%F0%9F%9A%80;Data+Science+%40+SLIIT+%F0%9F%8E%93;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing Animation" />
